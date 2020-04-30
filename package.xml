@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>event-triggered-consensus</name>
+  <name>consensus</name>
   <version>0.0.0</version>
   <description>The event-triggered-consensus package</description>
 
